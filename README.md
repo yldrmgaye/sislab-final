@@ -34,3 +34,13 @@ capital_loss: Sermaye kaybı
 hours_per_week: Haftalık çalışma saati
 native_country: Doğum ülkesi
 income: Gelir düzeyi (hedef değişken)
+
+ROADMAP
+-Describe-valuecounts-
+-nan değer barındıranların silinmesi
+-yinenlenen satırların silinmesi
+-kategorik verilerin sayısal verilere dönüştürülmesi yeni df 
+-Görselleştirme
+-model belirlenmesi
+-eğitim test verileri bölünmesi
+
